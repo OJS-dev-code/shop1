@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OJS-dev-code/shop1/static/css/main.48bfd2d8.css",
+    "main.js": "/OJS-dev-code/shop1/static/js/main.229b12c3.js",
+    "static/media/main_icon_pc.png": "/OJS-dev-code/shop1/static/media/main_icon_pc.dc38f9172d5964039361.png",
+    "index.html": "/OJS-dev-code/shop1/index.html",
+    "main.48bfd2d8.css.map": "/OJS-dev-code/shop1/static/css/main.48bfd2d8.css.map",
+    "main.229b12c3.js.map": "/OJS-dev-code/shop1/static/js/main.229b12c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bfd2d8.css",
+    "static/js/main.229b12c3.js"
+  ]
+}
